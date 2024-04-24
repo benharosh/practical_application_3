@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
- In this practical application, the goal is to compare the performance of the classifiers - `K Nearest Neighbors`, `Logistic Regression`, `Decision Trees`, and `Support Vector Machines`. We will utilize a dataset related to marketing bank products over the telephone. [Notebook Link](https://github.com/benharosh/practical_application_3/blob/main/prompt_III.ipynb)
+ In this practical application, the goal is to compare the performance of the classifiers - `K Nearest Neighbors`, `Logistic Regression`, `Decision Trees`, and `Support Vector Machines`. We will utilize a dataset related to marketing bank products over the telephone. [Notebook Link](https://github.dev/benharosh/practical_application_3/blob/main/prompt_III.ipynb)
 
 ### Business Understanding
 
@@ -38,5 +38,7 @@ From the results, we can recommend the following things:
   * Their marital status is single
   * Their job status is student, entrepreneur or retired
   * Younger (<30) customers
+  * Previously accepted marketing campaign
+  * Customers with their credit not in default 
 - Run marketing campaigns when the interest rate (`Euribor 3 Month Rate`) is lower (<3.5%)
 - Focus on economic context attribute as `nr.emplyoed` - number of employees (quarterly indicator)
